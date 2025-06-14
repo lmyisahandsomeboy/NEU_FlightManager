@@ -1,5 +1,5 @@
 # NEU_FlightManager
-来自东北大学_$cptbptp$。
+来自东北大学_ $cptbptp$ 。
 ## 作者： NEU_Chenyu, NEU_Szh。
 声明：本作品开源exe版，并非发行版。同时源码暂时保密,如果交流学习需要，请加QQ：1874050294！
 
