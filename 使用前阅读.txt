@@ -1,1 +1,2 @@
 project->build options ->linker setting ->add gdi32即可
+（Codeblock运行源码的描述，不过本发行版EXE直接运行即可，无需配置环境）
